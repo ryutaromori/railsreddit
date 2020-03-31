@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem 'pg'
-gem 'rails', '4.2.0'
+gem 'rails', '5.2.0'
 gem 'rails_12factor', group: :production
 gem 'simple_form'
 gem 'sorcery', '0.9.0'
