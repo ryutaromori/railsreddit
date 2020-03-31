@@ -1,4 +1,4 @@
-ruby '2.1.5'
+ruby '2.4.2'
 source 'https://rubygems.org'
 
 gem 'bootstrap-sass'
